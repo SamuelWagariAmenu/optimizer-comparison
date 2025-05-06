@@ -1,12 +1,14 @@
-# Gradient Descent Optimization Algorithm Comparison
+# The Evolution of Optimizer Algorithms in ML: From GD to Adam
 
-This microteaching project investigates the performance of various gradient descent–based optimization algorithms through a hands-on regression task using Python and NumPy. The goal is to demonstrate how different optimizers behave when minimizing a loss function in machine learning, especially in the context of noisy data.
+This repository accompanies a microteaching project on the evolution of optimization algorithms in machine learning, from traditional Gradient Descent to advanced methods like Adam.
+
+It investigates the performance of several gradient descent–based optimization algorithms through a hands-on regression task using Python and NumPy. The goal is to demonstrate how different optimizers behave when minimizing a loss function in machine learning, particularly in noisy data.
 
 ---
 
 ##  Context
 
-This project was created as part of a **Big Data Algorithms** course microteaching assignment. It is also accompanied by a short video presentation.
+This project was created as part of a **Big Data Algorithms** course microteaching assignment. A short video presentation also accompanies it.
 
 ---
 
