@@ -6,7 +6,7 @@ This microteaching project investigates the performance of various gradient desc
 
 ##  Context
 
-This project was created as part of a **Big Data Algorithms** course microteaching assignment. It is accompanied by a short video presentation and may be evaluated during the final oral exam.
+This project was created as part of a **Big Data Algorithms** course microteaching assignment. It is also accompanied by a short video presentation.
 
 ---
 
